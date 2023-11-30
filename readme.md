@@ -17,11 +17,14 @@ Write code in HTML, CSS, and JavaScript to build a simple timer web app. Users c
 
 1. Mobile-friendly
 
-![Mobile-friendly](images\mobile.png) 
+![Mobile-friendly](https://raw.githubusercontent.com/Nitesh-60/frontend-assignment/master/images/mobile.png) 
 
 2. Website 
 
-![Website](images\website.png) 
+![Website](https://raw.githubusercontent.com/Nitesh-60/frontend-assignment/master/images/website.png) 
 
 # Github Link : 
 https://github.com/Nitesh-60/frontend-assignment
+
+# Github Pages Live Link:
+https://nitesh-60.github.io/frontend-assignment/
